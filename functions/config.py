@@ -1,1 +1,0 @@
-config = {"max_chars": 10000}
